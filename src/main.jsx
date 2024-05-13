@@ -10,6 +10,7 @@ import Portfolio from "./Component/Portfolio/Portfolio.jsx";
 import Blog from "./Component/blogs/Blog.jsx";
 import Contact from "./Component/Contact/Contact.jsx";
 
+//router
 const router = createBrowserRouter([
   {
     path: "/",
